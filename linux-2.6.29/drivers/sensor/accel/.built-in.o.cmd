@@ -1,0 +1,1 @@
+cmd_drivers/sensor/accel/built-in.o :=  /home/jac/Desktop/xtool/arm-2010q1/bin/arm-none-eabi-ld -EL    -r -o drivers/sensor/accel/built-in.o drivers/sensor/accel/smb_i2c.o drivers/sensor/accel/smb380.o drivers/sensor/accel/smb_acc.o 

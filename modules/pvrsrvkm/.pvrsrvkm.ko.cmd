@@ -1,0 +1,1 @@
+cmd_/home/jac/Desktop/vibkk2/modules/pvrsrvkm/pvrsrvkm.ko := /home/jac/Desktop/xtool/arm-2010q1/bin/arm-none-eabi-ld -EL -r   -o /home/jac/Desktop/vibkk2/modules/pvrsrvkm/pvrsrvkm.ko /home/jac/Desktop/vibkk2/modules/pvrsrvkm/pvrsrvkm.o /home/jac/Desktop/vibkk2/modules/pvrsrvkm/pvrsrvkm.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/media/video/samsung/built-in.o :=  /home/jac/Desktop/xtool/arm-2010q1/bin/arm-none-eabi-ld -EL    -r -o drivers/media/video/samsung/built-in.o drivers/media/video/samsung/fimc/built-in.o drivers/media/video/samsung/mfc50/built-in.o drivers/media/video/samsung/tv20_ap/built-in.o 

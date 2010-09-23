@@ -1,0 +1,1 @@
+cmd_kernel/power/built-in.o :=  /home/jac/Desktop/xtool/arm-2010q1/bin/arm-none-eabi-ld -EL    -r -o kernel/power/built-in.o kernel/power/main.o kernel/power/console.o kernel/power/process.o kernel/power/wakelock.o kernel/power/userwakelock.o kernel/power/earlysuspend.o kernel/power/consoleearlysuspend.o kernel/power/poweroff.o 

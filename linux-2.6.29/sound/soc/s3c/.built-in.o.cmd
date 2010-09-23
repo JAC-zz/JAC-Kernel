@@ -1,0 +1,1 @@
+cmd_sound/soc/s3c/built-in.o :=  /home/jac/Desktop/xtool/arm-2010q1/bin/arm-none-eabi-ld -EL    -r -o sound/soc/s3c/built-in.o sound/soc/s3c/s3c-pcm-lp.o sound/soc/s3c/s3c-i2s.o sound/soc/s3c/s3c-pcm.o sound/soc/s3c/s3c-pcmdev.o sound/soc/s3c/snd-soc-universal-wm8994.o sound/soc/s3c/snd-soc-universal-pcm-wm8994.o 

@@ -1,0 +1,1 @@
+cmd_/home/jac/Desktop/vibkk2/modules/bcm4329/dhd.ko := /home/jac/Desktop/xtool/arm-2010q1/bin/arm-none-eabi-ld -EL -r   -o /home/jac/Desktop/vibkk2/modules/bcm4329/dhd.ko /home/jac/Desktop/vibkk2/modules/bcm4329/dhd.o /home/jac/Desktop/vibkk2/modules/bcm4329/dhd.mod.o

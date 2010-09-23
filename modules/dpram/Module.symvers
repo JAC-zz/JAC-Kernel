@@ -1,0 +1,5 @@
+0x00000000	multipdp_rx_noti_regi	/home/jac/Desktop/vibkk2/modules/dpram/dpram	EXPORT_SYMBOL
+0x00000000	multipdp_buf_copy	/home/jac/Desktop/vibkk2/modules/dpram/dpram	EXPORT_SYMBOL
+0x00000000	multipdp_dump	/home/jac/Desktop/vibkk2/modules/dpram/dpram	EXPORT_SYMBOL
+0x00000000	yhexdump	/home/jac/Desktop/vibkk2/modules/dpram/dpram	EXPORT_SYMBOL
+0x00000000	multipdp_write	/home/jac/Desktop/vibkk2/modules/dpram/dpram	EXPORT_SYMBOL

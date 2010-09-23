@@ -1,0 +1,1 @@
+cmd_drivers/media/video/samsung/tv20_ap/built-in.o :=  /home/jac/Desktop/xtool/arm-2010q1/bin/arm-none-eabi-ld -EL    -r -o drivers/media/video/samsung/tv20_ap/built-in.o drivers/media/video/samsung/tv20_ap/s5p_tvout.o 

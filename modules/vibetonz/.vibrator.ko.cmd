@@ -1,0 +1,1 @@
+cmd_/home/jac/Desktop/vibkk2/modules/vibetonz/vibrator.ko := /home/jac/Desktop/xtool/arm-2010q1/bin/arm-none-eabi-ld -EL -r   -o /home/jac/Desktop/vibkk2/modules/vibetonz/vibrator.ko /home/jac/Desktop/vibkk2/modules/vibetonz/vibrator.o /home/jac/Desktop/vibkk2/modules/vibetonz/vibrator.mod.o
